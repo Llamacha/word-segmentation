@@ -2,8 +2,8 @@
 
 ## Usage
 1. Make sure you have installed [neural transducer](https://github.com/slvnwhrl/il-reimplementation).
-2. Download the models for the languages you need from this repository as well as the `predict.py` script.
-3. Run `predict.py`:
+2. Run `predict.py`:
+
 ```
 # output folder must exist ("." for current folder)
 python predict.py --model-folder model --output PATH_TO_OUTPUT_DIR --test PATH_TO_FILE
