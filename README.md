@@ -1,7 +1,7 @@
 # word-segmentation
 
 ## Usage
-1. Make sure you have installed [our neural transducer](https://github.com/slvnwhrl/il-reimplementation).
+1. Make sure you have installed [neural transducer](https://github.com/slvnwhrl/il-reimplementation).
 2. Download the models for the languages you need from this repository as well as the `predict.py` script.
 3. Run `predict.py`:
 ```
